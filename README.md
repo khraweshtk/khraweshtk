@@ -9,24 +9,24 @@
 ## 🚀 Work Experience
 - **Engineer Intern** @ SpaceX – Boca Chica, TX (May 2025 – Present)  
   - Supported IT Systems & Video/Audio Systems teams in mission-critical infrastructure.  
-  - Developed Python + OpenCV scripts for real-time video monitoring and automated alerting, improving system reliability.  
-  - Managed & maintained HPE servers and Arista switches, ensuring uptime and performance [oai_citation:0‡ResumeTK.pdf](file-service://file-XxmUjz1MqjGHyDwDk4nmQ8).  
+  - Built Python + OpenCV scripts for real-time video monitoring and automated alerting, improving reliability.  
+  - Managed & maintained HPE servers and Arista switches, ensuring uptime and performance.  
 
 - **Electrical Engineer Intern** @ Emerson – Elyria, OH (Aug 2024 – Dec 2024)  
   - Inspected **2,300+ RP251 tools**, improving QC on $4.2M worth of product.  
   - Led **Controls Project**: implemented wireless alert systems + programmed optimizations → boosted efficiency by **30%**.  
-  - Helped assemble KM-1004 PCB test fixtures; collaborated with cross-functional teams [oai_citation:1‡ResumeTK.pdf](file-service://file-XxmUjz1MqjGHyDwDk4nmQ8).  
+  - Assisted with KM-1004 PCB test fixtures and collaborated across teams.  
 
-- **Information Technology Technician** @ Hi Level – Raleigh, NC (Mar 2023 – Apr 2024)  
-  - Provided tech support & troubleshooting for POS, networks, and computer systems.  
-  - Oversaw network infrastructure & upgrades, ensuring secure and efficient ops.  
-  - Trained employees on new tech/software [oai_citation:2‡ResumeTK.pdf](file-service://file-XxmUjz1MqjGHyDwDk4nmQ8).  
+- **IT Technician** @ Hi Level – Raleigh, NC (Mar 2023 – Apr 2024)  
+  - Provided support & troubleshooting for POS, networks, and computer systems.  
+  - Oversaw network infrastructure & upgrades, ensuring secure and efficient operations.  
+  - Trained employees on new technology/software.  
 
 ---
 
 ## 📊 GitHub Stats  
-![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkhrawesh&show_icons=true&theme=radical&include_all_commits=true&v=1)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhrawesh&layout=compact&theme=radical&v=1)  
+![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkhrawesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhrawesh&layout=compact&theme=radical&v=2)  
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📚 Frameworks & Tools  
+## 📚 Frameworks & Libraries  
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> 
@@ -72,22 +72,35 @@
 
 ---
 
+## ☁️ Cloud Platforms  
+
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="60" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60" height="60"/> 
+</p>  
+
+---
+
 ## 📂 Projects  
 
 - **AI-Enhanced Surveillance Camera**  
   - Raspberry Pi 5 + Coral TPU for ML-enhanced object & motion detection.  
-  - Integrated Frigate NVR for real-time alerts; tailored software for stable ops + home automation integration [oai_citation:3‡ResumeTK.pdf](file-service://file-XxmUjz1MqjGHyDwDk4nmQ8).  
+  - Integrated Frigate NVR for real-time alerts; tailored software for stable ops + home automation integration.  
 
 - **License Plate Cover**  
   - Wireless button-activated opaque tint system.  
   - Designed electrical diagrams + soldered components.  
-  - Prototyped, tested, and refined to ensure seamless integration [oai_citation:4‡ResumeTK.pdf](file-service://file-XxmUjz1MqjGHyDwDk4nmQ8).  
+  - Prototyped, tested, and refined to ensure seamless integration.  
 
 ---
 
 ## 🏅 Key Certifications  
 
-(Placeholder — add badges/links here once Tamer gets certs like AWS, Azure, or Forage programs.)  
+(Add when earned, e.g. AWS, Azure, Forage programs, etc.)  
 
 ---
 
