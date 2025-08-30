@@ -25,8 +25,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkhrawesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhrawesh&layout=compact&theme=radical&v=3)
+## 📊 GitHub Stats
+![Contribution Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&date_format=j%20M%5B%20Y%5D&v=3)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&v=4)
 ---
 
 ## 🌐 Portfolio  
