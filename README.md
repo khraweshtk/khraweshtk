@@ -25,7 +25,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkhrawesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2)  
+![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkhrawesh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=PAT_1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkhrawesh&layout=compact&theme=radical&v=2)  
 
 ---
